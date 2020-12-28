@@ -1,7 +1,7 @@
 a:link, :visited
 	{
-		background-color: indianred;
-		color: white;
+		background-color: darkslategray;
+		color:whitesmoke;
 		padding: 10px;
 		text-align: center;
 		text-decoration: none;
@@ -11,19 +11,19 @@ a:link, :visited
 
 a:hover
 	{
-		background-color: lightcoral;
+		background-color: lightslategrey;
 		color: azure;
 	}
-
 h1
 	{
-		background-color: grey;
-		font-family: 'Luckiest Guy', cursive;
+		background-color: darkslategray;
+		font-family: 'Euphoria Script', cursive;
 		color: whitesmoke;
 		padding: 10px;
 		text-align: center;
 		text-decoration: none;
 		border-radius: 40px dotted;
+		
 
 	}
 
