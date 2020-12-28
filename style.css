@@ -17,14 +17,13 @@ a:hover
 
 h1
 	{
-		background-color: maroon;
+		background-color: grey;
 		font-family: 'Luckiest Guy', cursive;
-		color: white;
-		padding: 20px;
+		color: whitesmoke;
+		padding: 10px;
 		text-align: center;
 		text-decoration: none;
-		display: inline-block;
-		border-radius: 50px dotted;
+		border-radius: 40px dotted;
 
 	}
 
