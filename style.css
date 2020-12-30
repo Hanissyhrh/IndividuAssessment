@@ -29,11 +29,11 @@ h1
 
 p
 	{
-		background-color: maroon;
+		background-color: darkslategrey;
 		font-family: 'Emilys Candy', cursive;
 		color: white;
 		padding: 10px;
-		text-align: center;
+		text-align: justify;
 		text-decoration: none;
 		display: inline-block;
 
