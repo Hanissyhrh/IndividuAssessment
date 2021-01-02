@@ -50,3 +50,17 @@ h3
 		font-family: 'Love Ya Like A Sister', cursive;
 		color: white;
 	}
+
+h4
+	{
+		font-family: 'Love Ya Like A Sister', cursive;
+		color:white;
+	}
+	
+Img
+	{
+		padding: 12px;
+		border-radius: 12px;
+		background-color: lightblue
+	}
+
